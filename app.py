@@ -163,12 +163,12 @@ st.markdown("### 🤝 Sponsors")
 s1, s2, s3, s4, s5 = st.columns(5)
 
 with s1:
-    st.image("image/exxonmobil.png", width=100)
+    st.image("exxonmobil.png", width=100)
 with s2:
-    st.image("image/egat.png", width=100)
+    st.image("egat.png", width=100)
 with s3:
-    st.image("image/roza.png", width=85)
+    st.image("roza.png", width=85)
 with s4:
-    st.image("image/cute.png", width=100)
+    st.image("cute.png", width=100)
 with s5:
-    st.image("image/camphub.png", width=100)
+    st.image("camphub.png", width=100)

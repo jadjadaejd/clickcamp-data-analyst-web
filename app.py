@@ -158,7 +158,7 @@ st.caption(
 st.divider()
 
 
-st.markdown("### 🤝 Sponsors")
+st.markdown("### Sponsors")
 
 s1, s2, s3, s4, s5 = st.columns(5)
 
@@ -171,4 +171,5 @@ with s3:
 with s4:
     st.image("cute.png", width=100)
 with s5:
+
     st.image("camphub.png", width=100)

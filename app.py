@@ -40,10 +40,15 @@ st.markdown("""
 }
 
 /* Text input */
-input {
-    border-radius: 12px !important;
-    border: 1px solid #ffd6de !important;
+.stTextInput input {
+    background-color: #ffffff !important;
+    color: #5a3a3a !important;
+    border: 1.5px solid #ffb6c1 !important;
+    border-radius: 14px !important;
+    padding: 12px !important;
+    font-size: 16px !important;
 }
+
 </style>
 """, unsafe_allow_html=True)
 

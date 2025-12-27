@@ -36,6 +36,6 @@ elif st.session_state.page == "main":
     left, center, right = st.columns([1,2,1])
 
     with center:
-        st.image("images/image1.png", width=300)
+        st.image("image1.png", width=300)
         st.markdown("### Did you smile today? 😊")
         st.markdown("Take a breath. You're doing better than you think.")
